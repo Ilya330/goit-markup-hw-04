@@ -228,7 +228,9 @@ a {
   color: #2e2f42;
   padding: 120px 0;
 }
-
+.workers {
+  padding-top: 32px;
+}
 .team-title {
   font-weight: 700;
   font-size: 36px;
